@@ -1,0 +1,27 @@
+_repo: Van-Smyrna-naar-Holland-in-oorlogstijdDe-Aarde-en-haar-Volken-1917_28181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poel, Betsy van der
+    gutenberg_agent_id: '33186'
+    url: http://www.gutenberg.org/2009/agents/33186
+description: ''
+gutenberg_issued: '2009-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28181'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- Description and travel'
+- !lcsh 'Voyages and travels'
+- !lcc 'DR'
+title: 'Van Smyrna naar Holland in oorlogstijd
+
+  De Aarde en haar Volken, 1917'
+url: http://www.gutenberg.org/ebooks/28181
